@@ -16,3 +16,13 @@ Check out the signature in action: [https://fernandotonacoder.github.io/email-si
 2. Edit the text with your own data
 3. Open `index.html` in a browser, select all (**Ctrl+A**) the rendered signature and paste into your email provider
 4. Enjoy! ✨
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it useful!**
+
+Made with ❤️ by Fernando Tona
+
+</div>
