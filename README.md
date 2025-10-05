@@ -17,6 +17,11 @@ Check out the signature in action: [https://fernandotonacoder.github.io/email-si
 3. Open `index.html` in a browser, select all (**Ctrl+A**) the rendered signature and paste into your email provider
 4. Enjoy! ✨
 
+## Author
+
+**Fernando Tona**  
+[Website](https://fernandotonacoder.github.io) • [LinkedIn](https://www.linkedin.com/in/fernandotona/) • [GitHub](https://github.com/fernandotonacoder) • fernandotonacoder@protonmail.com
+
 ---
 
 <div align="center">
